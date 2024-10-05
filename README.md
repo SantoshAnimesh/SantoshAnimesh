@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Santosh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 <h3 align='center'>
-  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="20" />
 </h3>
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=santoshAnimesh&style=flat-square&color=blue" alt="Profile Views" />
@@ -14,23 +14,9 @@
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
-
 💬 Ask me about **Frontend Development, Problem Solving and  MERN Full Stack Development**
 
 💗 Love to talk about **Research and Innovation!**
-
-## 💪 Passionate about Competitive Coding
-
-- Solved 150+ DSA Problems at **LeetCode** using Javascript.
-- 4 Star in Problem solving at **HackerRank**
-
-## 🏆 Achievement
-
-- **Winner of Mr consistent - Jan 2023**: Won this award at classplus for Lead Conversion Rate
-- **Winner of Rockstar Rookie - Sep 2023**: Won this award at classplus for fastest delevery
-- **Winner of Ace member - March 2024**: Winner Of ace team member award
-
-📫 Feel free to reach out if you have any opportunity that fits my background: **santoshanimesh76.sk@gmail.com**
 
 ## 🔰 Let's Connect:
 
@@ -76,6 +62,19 @@
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+## 🏆 Achievement
+
+- **Winner of Mr consistent - Jan 2023**: Won this award at classplus for Lead Conversion Rate
+- **Winner of Rockstar Rookie - Sep 2023**: Won this award at classplus for fastest delevery
+- **Winner of Ace member - March 2024**: Winner Of ace team member award
+
+📫 Feel free to reach out if you have any opportunity that fits my background: **santoshanimesh76.sk@gmail.com**
+
+## 💪 Passionate about Competitive Coding
+
+- Solved 150+ DSA Problems at **LeetCode** using Javascript.
+- 4 Star in Problem solving at **HackerRank**
 
 ## 🏆 Trophies:
 
